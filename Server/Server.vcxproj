@@ -80,7 +80,7 @@
       </AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalLibraryDirectories>C:\Users\Space\Desktop\http\Server\Dependencies;C:\Users\Space\Desktop\http\Server\Dependencies\stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Space\Documents\GitHub\FileApp\Dependencies;C:\Users\Space\Documents\GitHub\FileApp\Dependencies\stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
